@@ -1,0 +1,68 @@
+14:04:18.575 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3234f74e: 46 ms
+14:04:18.611 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e3060d8: 24 ms
+14:04:18.626 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42a9e5d1: 14 ms
+14:04:18.635 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f603e89: 9 ms
+14:04:18.636 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2756c0a7: 0 ms
+14:06:06.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+14:06:15.322 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest *** 
+14:06:15.489 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount link...
+14:06:15.831 [main] INFO  testCases.TC_002_LoginTest - clicked on login link...
+14:06:15.833 [main] INFO  testCases.TC_002_LoginTest - Entering Valid Email and Password...
+14:06:16.941 [main] INFO  testCases.TC_002_LoginTest - clicked on login button...
+14:06:17.015 [main] ERROR testCases.TC_002_LoginTest - Login test passed
+14:06:17.019 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+14:07:09.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+14:07:14.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest **** 
+14:07:14.734 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+14:07:15.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+14:07:15.324 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering Customer Details
+14:07:21.190 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+14:07:21.269 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+14:07:21.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_AccountRegistrationTest ****
+14:07:26.823 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest *** 
+14:07:26.971 [main] INFO  testCases.TC_002_LoginTest - clicked on MyAccount link...
+14:07:27.336 [main] INFO  testCases.TC_002_LoginTest - clicked on login link...
+14:07:27.339 [main] INFO  testCases.TC_002_LoginTest - Entering Valid Email and Password...
+14:07:28.427 [main] INFO  testCases.TC_002_LoginTest - clicked on login button...
+14:07:28.500 [main] ERROR testCases.TC_002_LoginTest - Login test passed
+14:07:28.500 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+22:11:54.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:14:46.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:16:53.496 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:18:57.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:19:02.911 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:19:14.851 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:19:25.008 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:19:35.122 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:19:45.277 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:21:21.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:21:27.685 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:21:39.481 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:21:49.626 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:21:59.971 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:22:10.116 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:25:47.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
+22:25:56.974 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:26:09.028 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:26:19.168 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:26:29.304 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:26:39.434 [main] INFO  testCases.TC_003_LoginDDT - ***Starting TC_003_LoginDDT ***
+22:27:09.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\peerz\eclipse-workspace\opencart\master.xml
+
